@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\domoi\\OneDrive\\Desktop\\Hackathon\\FiveNightsAtTimmies\\fixedExpresso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFFAB7C-271E-491B-B9DA-BF631B78D3B7}|fixedExpresso.vbproj|c:\\users\\domoi\\onedrive\\desktop\\hackathon\\fivenightsattimmies\\fixedexpresso\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FFFAB7C-271E-491B-B9DA-BF631B78D3B7}|fixedExpresso.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFFAB7C-271E-491B-B9DA-BF631B78D3B7}|fixedExpresso.vbproj|c:\\users\\domoi\\onedrive\\desktop\\hackathon\\fivenightsattimmies\\fixedexpresso\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FFFAB7C-271E-491B-B9DA-BF631B78D3B7}|fixedExpresso.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\domoi\\OneDrive\\Desktop\\Hackathon\\FiveNightsAtTimmies\\fixedExpresso\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\domoi\\OneDrive\\Desktop\\Hackathon\\FiveNightsAtTimmies\\fixedExpresso\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAMIBAAAAAAAAAAAIwNUBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-06T05:32:35.997Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\domoi\\OneDrive\\Desktop\\Hackathon\\FiveNightsAtTimmies\\fixedExpresso\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\domoi\\OneDrive\\Desktop\\Hackathon\\FiveNightsAtTimmies\\fixedExpresso\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-06T06:42:43.028Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
